@@ -3,7 +3,7 @@
 
 ***1.시연영상***
 
-![화면-기록-2025-09-08-오후-7 27 42](https://github.com/user-attachments/assets/d0ee112a-275b-449b-8f5d-ebde8ac8ec6a)
+[화면-기록-2025-09-08-오후-7 27 42](https://github.com/user-attachments/assets/d0ee112a-275b-449b-8f5d-ebde8ac8ec6a)
 
 
 ***3.서버에서 입력값 처리 및 모델 전달***
