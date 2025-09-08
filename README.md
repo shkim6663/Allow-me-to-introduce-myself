@@ -3,7 +3,9 @@
 
 
 ***1. HTML 입력 폼 구성***
+ 
  <img width="503" height="575" alt="스크린샷 2025-09-08 오후 7 25 38" src="https://github.com/user-attachments/assets/4ecab233-97e3-45cd-ad8d-7a5d1fbadbac" />
+
 
 ***2.서버에서 입력값 처리 및 모델 전달***
 
@@ -84,6 +86,9 @@
 
 ****5.시연영상***
 
+
 ![화면-기록-2025-09-08-오후-7 27 42](https://github.com/user-attachments/assets/803ee205-698a-445c-878c-42fd2e006bfb)
+
+
 
 
