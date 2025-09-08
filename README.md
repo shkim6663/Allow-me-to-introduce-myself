@@ -4,7 +4,7 @@
 ***1.시연영상***
 
 
-![화면-기록-2025-09-08-오후-7 27 42](https://github.com/user-attachments/assets/8c0c2bca-71b7-4e79-b8a4-b8c3c2a081b0)
+
 
 
 
