@@ -87,8 +87,8 @@
 ***5.시연영상***
 
 
-![화면-기록-2025-09-08-오후-7 27 42](https://github.com/user-attachments/assets/803ee205-698a-445c-878c-42fd2e006bfb)
 
+![화면-기록-2025-09-08-오후-7 27 42](https://github.com/user-attachments/assets/d0ee112a-275b-449b-8f5d-ebde8ac8ec6a)
 
 
 
