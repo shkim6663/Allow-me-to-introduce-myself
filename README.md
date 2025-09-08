@@ -4,11 +4,12 @@
 ***1.시연영상***
 
 
+[![데모 영상](https://img.youtube.com/vi/bshoqGNdcSM/0.jpg)](https://www.youtube.com/shorts/bshoqGNdcSM)
 
 
 
 
-***3.서버에서 입력값 처리 및 모델 전달***
+***2.서버에서 입력값 처리 및 모델 전달***
 
     package kr.sparta.practical2_starter;
 
@@ -47,7 +48,7 @@
 }
 
 
-***4. 한 줄 자기소개 출력***
+***3. 한 줄 자기소개 출력***
 
 
        String intro = String.format(
@@ -59,7 +60,7 @@
         );
 
 
-***5. MBTI에 따라 이모지 출력하기***
+***4. MBTI에 따라 이모지 출력하기***
 
 
         public static final Map<String, String> MBTI_EMOJI_MAP = Map.ofEntries(
