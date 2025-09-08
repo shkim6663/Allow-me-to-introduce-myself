@@ -45,7 +45,9 @@ public class IntroController {
 
 
 3. 한 줄 자기소개 출력
-   String intro = String.format(
+
+
+    String intro = String.format(
                 "안녕하세요! 저는 %d살이고 %s이며 %s를 좋아하고 %s을 좋아해요!",
                 person.getAge(),
                 person.getMbti(),
@@ -55,6 +57,8 @@ public class IntroController {
 
 
 5. MBTI에 따라 이모지 출력하기
+
+
 public static final Map<String, String> MBTI_EMOJI_MAP = Map.ofEntries(
     Map.entry("ISTJ", "📘"), // 신중한 관리자 – 책
     Map.entry("ISFJ", "🛡️"), // 헌신적인 수호자 – 방패
@@ -79,4 +83,7 @@ public static final Map<String, String> MBTI_EMOJI_MAP = Map.ofEntries(
 );
 
 5.시연영상
-https://github.com/user-attachments/assets/9da70e98-5fe1-4dce-8160-1efa07ff3d1a
+
+![화면-기록-2025-09-08-오후-7 27 42](https://github.com/user-attachments/assets/803ee205-698a-445c-878c-42fd2e006bfb)
+
+
