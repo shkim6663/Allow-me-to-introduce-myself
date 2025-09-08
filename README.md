@@ -6,11 +6,6 @@
 ![화면-기록-2025-09-08-오후-7 27 42](https://github.com/user-attachments/assets/d0ee112a-275b-449b-8f5d-ebde8ac8ec6a)
 
 
-***2. HTML 입력 폼 구성***
- 
- <img width="503" height="575" alt="스크린샷 2025-09-08 오후 7 25 38" src="https://github.com/user-attachments/assets/4ecab233-97e3-45cd-ad8d-7a5d1fbadbac" />
-
-
 ***3.서버에서 입력값 처리 및 모델 전달***
 
     package kr.sparta.practical2_starter;
